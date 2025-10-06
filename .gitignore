@@ -1,0 +1,22 @@
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+build/
+Build/
+build/
+
+# IDE files
+.vs/
+.vscode/
+
+# Secrets - VERY IMPORTANT
+local.settings.json
+/WeatherSubscriptionService/local.settings.json
